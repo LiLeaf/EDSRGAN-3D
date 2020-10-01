@@ -177,6 +177,7 @@ For 2D images, output is slice-by-slice, and readable my standard image reading 
 For 3D images, we recommend ImageJ: https://imagej.net/Fiji/Downloads
 
 **Examples**
+
 ***2D Images***
 
 1. choose the folder containing the input images on your computer;
